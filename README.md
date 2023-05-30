@@ -2,7 +2,7 @@
 <h3 align="center">A full stack web developer from México </h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e476z6mnf4edljeftlq906lwphwtj32s14sj3pthi5t&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
-<p align="left"> <a href="https://www.linkedin.com/in/h%C3%A9ctor-manuel-rodr%C3%ADguez-g%C3%B3mez-8695b2183/" target="blank"><img alt="RodH24" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/h%C3%A9ctor-manuel-rodr%C3%ADguez-g%C3%B3mez-8695b2183/"><img alt="RodH24" /></a> </p>
 
 - I’m currently learning **Next JS and Typescript**
 
